@@ -42,8 +42,8 @@ The project focuses on visualization and understanding of distributed algorithms
 ## Clone Repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/ManavKalmegh/Distributed-Systems.git
+cd Distributed-Systems
 ```
 
 ## Install Dependencies
